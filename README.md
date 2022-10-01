@@ -4,7 +4,7 @@ linkedin.com/in/nareshk007   |   github.com/n-k-y   |   jovian.ai/naresh
 
 EDUCATION
 
-Data Science Bootcamp, Jovian (View)                                                           Mar 2022 - Ongoing
+Data Science Bootcamp, Jovian                                           Mar 2022 - Ongoing
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 

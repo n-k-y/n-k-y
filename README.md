@@ -1,16 +1,40 @@
-Naresh Kumar
+<h1 align="center">NARESH KUMAR</h1>
 
-linkedin.com/in/nareshk007   |   github.com/n-k-y   |   jovian.ai/naresh
+[Linkedin](http://linkedin.com/in/nareshk007)   |   [Medium](https://medium.com/@nar-esh)   |   [Jovian](jovian.ai/naresh) <p align="right"><img src="https://komarev.com/ghpvc/?username=n-k-y&style=flat-square&color=blue" alt="n-k-y"/></p>
 
-EDUCATION
-
-Data Science Bootcamp, Jovian                                           Mar 2022 - Ongoing
+## Data Science Bootcamp @ JOVIAN
 
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 
-Highlights: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
+Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
-Edinburgh Napier University, Edinburgh, Scotland                                                            	        2006-2009  
+### PROJECTS
+
+**Sales Forecasting of Walmart Stores with Machine Learning([View on Jovian](https://jovian.ai/naresh/walmart-sales-forecasting-with-machine-learning))**
+
+* Combined, cleaned & analyzed store datasets with 400,000+ rows & 16 columns to predict Weekly Sales
+* Planning to train linear models, random forests, & gradient boosted trees using scikit-learn & XGBoost
+* Aiming to achieve a MSE of below $5000 & land in the top position on kaggle competition
+
+**Exploratory Data Analysis on Zomato listed restaurants in India([View on Jovian](https://jovian.ai/naresh/indian-restaurant-zomato-exploratory-data-analysis))**
+
+* Cleaned & analyzed data of 0.21 millions of rows containing 26 columns with the help of Pandas
+* Created visualizations (scatter plots, bar charts, line charts, heatmaps, etc.) using Matplotlib & Plotly
+* Discovered that North India cuisines are popular all over the country & Bawarchi is the highest rated
+
+**Web Scraping of Screener for high performing stock analysis([View on Jovian](https://jovian.ai/naresh/web-scraping-of-screener-for-high-performing-stock-analysis))**
+
+* Scraped, Screens of top companies from Screener using Requests & BeautifulSoup libraries
+* Parsed data using get_web_page(), company_data() etc to get fundamental information from the site
+* Converted the data of 125 rows & 11 columns into Pandas dataframe & finally to a CSV file
+
+### SKILLS 
+
+Skill: Python, SQL, Presentation, Numpy, Pandas, Excel, Tableau
+
+### EDUCATION
+
+**Edinburgh Napier University, Edinburgh, Scotland (2006-2009)** 
 
 Bachelor’s in Hospitality Management
 
@@ -18,7 +42,7 @@ Courses: Leadership skills, Workmanship skills, Service Management, Time Managem
 
 Highlights: Six months Industrial training from Radisson, New Delhi in four major hotel departments
 
-Institute of Advanced Management, Goa, India                                                                                   2006-2009
+**Institute of Advanced Management, Goa, India (2006-2009)**
 
 Diploma in Hospitality Administration 
 
@@ -26,9 +50,9 @@ Courses: Front Office, Food & Beverage Service, Housekeeping & Food Production M
 
 Highlights: Event planning and organized multiple college food festivals
 
-WORK EXPERIENCE
+### WORK EXPERIENCE
 
-Hospitality 
+#### Hospitality 
 
 VCCOQ Enterprises - A Cloud Kitchen Brand Franchisee Company - Founder
 
@@ -40,7 +64,7 @@ Shadowfax Technologies Pvt Ltd - A Hyperlocal Logistic Company - Cluster Manager
 
 Mc Donald’s - A Fast Food Chain - Assistant Restaurant Manager 
 
-Automotive    
+#### Automotive    
 
 Maruti Suzuki Nexa - An Automotive Retail Brand - Relationship Manager
 
@@ -48,26 +72,10 @@ Motostud Services Pvt Ltd - An Automotive Restoration Outlet - Founder
 
 3M Automotive Retail - An Automotive Restoration Brand - Store Manager
 
-PROJECTS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-k-y" alt="n-k-y" /></a> </p>
 
-Sales Forecasting of Walmart Stores with Machine Learning
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-k-y&show_icons=true&locale=en&layout=compact" alt="n-k-y" /></p>
 
-Combined, cleaned & analyzed different datasets to predict Weekly Sales.
-Planning to train linear models, random forests, and gradient boosted trees using scikit-learn & XGBoost
-Result is yet to be analyzed (Ongoing)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-k-y&show_icons=true&locale=en" alt="n-k-y" /></p>
 
-Exploratory Data Analysis on Zomato listed restaurants in India
-
-Analyzed data of 0.21 millions of rows containing 26 columns by cleaning it with the help of Pandas
-Created visualizations (scatter plots, bar charts, line charts, heatmaps, etc.) using Matplotlib & Plotly
-Summarized few points that North India cuisines are popular all over the country and Bawarchi is the highest rated while Fujiya is one of the oldest restaurant on Zomato
-
-Web Scraping of Screener for high performing stock analysis
-
-Scraped, collected & structured the data using Requests & BeautifulSoup libraries
-Defined functions to extract the list of company names, urls & other fundamental information
-Converted data into Pandas dataframe and finally to a CSV file
-
-SKILLS & CERTIFICATIONS
-
-Skill: Python, SQL, Presentation, Numpy, Pandas, Excel, Tableau
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-k-y&" alt="n-k-y" /></p>
